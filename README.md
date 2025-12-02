@@ -1,5 +1,5 @@
-# Linear Regression
-This is my project on linear regression
+# Linear Regression Data Visualization
+This is my project on linear regression with visualization
 
 This project will perform linear regression in Python and R
 
